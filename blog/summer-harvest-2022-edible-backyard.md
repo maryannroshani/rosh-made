@@ -8,6 +8,6 @@ featuredimage: /assets/summerharvest2022.jpg
 tags:
   - Home
 ---
-As I promised in my previous blog, I'm going to be soon sharing here my summer harvest of 2022. For a first-time gardener, it was one of the most rewarding and fun projects I've ever done. Trust me it's going to be an amazing one :) 
 
-![](/assets/img_6992.jpg)
+
+Test
